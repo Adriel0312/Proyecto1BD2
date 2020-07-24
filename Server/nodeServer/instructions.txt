@@ -1,0 +1,6 @@
+# run this comands
+npm install express --save
+npm install mssql
+
+follow this paga instructions
+https://medium.com/zero-equals-false/how-to-connect-node-js-app-with-sql-server-18a176afae46
